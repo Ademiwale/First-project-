@@ -207,11 +207,11 @@ align-items: center;
  
 .cross #enya{
    color: #101828;
-   font-style: ;
+   /* font-style: ; */
 }
 
 .minor img{
-       padding: 1rem; */
+       padding: 1rem; 
 }
 .davi{
     align-items: center;
